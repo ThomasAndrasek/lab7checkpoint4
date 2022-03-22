@@ -1,0 +1,8 @@
+C:/Users/kille/Desktop/lab7repo/build/CMakeFiles/Tutorial.dir
+C:/Users/kille/Desktop/lab7repo/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/kille/Desktop/lab7repo/build/CMakeFiles/INSTALL.dir
+C:/Users/kille/Desktop/lab7repo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kille/Desktop/lab7repo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kille/Desktop/lab7repo/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/kille/Desktop/lab7repo/build/MathFunctions/CMakeFiles/RUN_TESTS.dir
+C:/Users/kille/Desktop/lab7repo/build/MathFunctions/CMakeFiles/INSTALL.dir
